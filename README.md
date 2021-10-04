@@ -1,6 +1,6 @@
 # Neumorphism-login-page
 build a simple DARK Neumorphism-login-page
 
-![1](https://user-images.githubusercontent.com/79241162/135936629-24a71317-03df-43da-84b5-85091fccaaef.png)
-![2](https://user-images.githubusercontent.com/79241162/135936651-066d5f8f-be9d-42fe-b203-8f55b99c6450.png)
+![first](https://user-images.githubusercontent.com/79241162/135937623-3e486bc3-562c-4b14-9954-fac98ca690d3.png)
+![second](https://user-images.githubusercontent.com/79241162/135937631-68a23e29-bf67-4973-a2e1-bdf9adf99e34.png)
 
