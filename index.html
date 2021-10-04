@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+ <div class="popup" id="popup-1">
+   <div class="content">
+    <div class="close-btn" onclick="togglePopup()">
+     ×</div>
+     
+<h1>ورود به حساب</h1> 
+  <div class="input-field"><input placeholder="ایمیل خود را وارد کنید" type="email" class="validate"></div>
+  <div class="input-field"><input placeholder="رمز عور خود را وارد کنید" maxlength="10" type="password" class="validate"></div>
+    <button class="second-button">ورود</button>
+    <p> اکانتی ندارید؟<a href="/signup.html">&nbsp;ثبت نام</a></p>
+   </div>
+  </div>
+  <button onclick="togglePopup()" class="first-button">ورود</button>
+<script>
+ function togglePopup() {
+ document.getElementById("popup-1")
+  .classList.toggle("active");
+}
+</script>
+
+</body>
+</html> 
